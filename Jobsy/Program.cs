@@ -12,6 +12,10 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configurar el puerto para Render
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
+
 // Add services to the container.
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -22,10 +26,12 @@ builder.Services.AddMediatR(typeof(RegisterUserService).Assembly);
 builder.Services.AddScoped<RegisterUserService>();
 
 // Connection string & EF Core
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+var connectionString = Environment.GetEnvironmentVariable("DATABASE_URL") 
+                       ?? builder.Configuration.GetConnectionString("DefaultConnection");
+
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
-    options.UseMySQL(connectionString);
+    options.UseNpgsql(connectionString);
 });
 
 // Repositories & UnitOfWork
@@ -51,7 +57,7 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 // Routing & Controllers
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.MapControllers();
 
 app.Run();
