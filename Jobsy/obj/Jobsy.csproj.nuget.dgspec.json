@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\project-Aplicaciones Web\\backend-project\\Jobsy\\Jobsy\\Jobsy.csproj": {}
+    "D:\\backend-app\\Jobsy\\Jobsy.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\project-Aplicaciones Web\\backend-project\\Jobsy\\Jobsy\\Jobsy.csproj": {
+    "D:\\backend-app\\Jobsy\\Jobsy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\project-Aplicaciones Web\\backend-project\\Jobsy\\Jobsy\\Jobsy.csproj",
+        "projectUniqueName": "D:\\backend-app\\Jobsy\\Jobsy.csproj",
         "projectName": "Jobsy",
-        "projectPath": "D:\\Escritorio\\project-Aplicaciones Web\\backend-project\\Jobsy\\Jobsy\\Jobsy.csproj",
-        "packagesPath": "C:\\Users\\Ronald\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\project-Aplicaciones Web\\backend-project\\Jobsy\\Jobsy\\obj\\",
+        "projectPath": "D:\\backend-app\\Jobsy\\Jobsy.csproj",
+        "packagesPath": "C:\\Users\\FABRICIO\\.nuget\\packages\\",
+        "outputPath": "D:\\backend-app\\Jobsy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ronald\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\FABRICIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -37,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net9.0": {

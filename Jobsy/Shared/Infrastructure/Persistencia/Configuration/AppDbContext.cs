@@ -1,3 +1,4 @@
+using Jobsy.Recruiter.Domain.Model.Aggregates;
 using Jobsy.UserAuthentication.Domain.Model.Aggregates;
 using Jobsy.UserAuthentication.Domain.Model.Entities;
 using Microsoft.EntityFrameworkCore;
@@ -11,13 +12,18 @@ public class AppDbContext : DbContext
     }
     public DbSet<User> Usuarios { get; set; }
     public DbSet<Profile> Perfiles { get; set; }
-    
+    public DbSet<Evaluation> Evaluations { get; set; }
+
     protected override void OnModelCreating(ModelBuilder builder)
     {
+        
         // Relación uno a uno entre User y Profile
         builder.Entity<User>()
             .HasOne<Profile>()
             .WithOne(p => p.user)
             .HasForeignKey<Profile>(p => p.Id_Usuario);
+        
+        builder.Entity<Evaluation>()
+            .OwnsOne(e => e.Auditoria);
     }
 }

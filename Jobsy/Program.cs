@@ -1,7 +1,14 @@
+using Jobsy.Recruiter.Domain.Repositories;
+using Jobsy.Recruiter.InfraStructure.Repositories;
 using Jobsy.Shared.Infrastructure.Persistencia.Configuration;
 using Jobsy.UserAuthentication.Application.CommandServices;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+
+
+using Jobsy.Shared.Domain.Repository;
+using Jobsy.Shared.Infrastructure.Persistencia.Repositories;
+
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
@@ -12,6 +19,12 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddMediatR(typeof(RegisterUserService).Assembly);
 builder.Services.AddScoped<RegisterUserService>();
 //----
+
+builder.Services.AddScoped<IEvaluationCommandRepository, EvaluationCommandRepository>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>(); // Asumiendo que tienes una clase UnitOfWork
+
+// Registro de MediatR
+
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddDbContext<AppDbContext>(options =>

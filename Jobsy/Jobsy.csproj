@@ -31,11 +31,8 @@
       <Folder Include="Postulant\InfraStructure\" />
       <Folder Include="Postulant\Interfaces\" />
       <Folder Include="Recruiter\Application\" />
-      <Folder Include="Recruiter\Domain\" />
-      <Folder Include="Recruiter\InfraStructure\" />
-      <Folder Include="Recruiter\Interfaces\" />
-      <Folder Include="Shared\Domain\Model\" />
-      <Folder Include="Shared\Domain\Repository\" />
+      <Folder Include="Recruiter\Application\CommandServices\" />
+      <Folder Include="Shared\Infrastructure\Persistencia\Configuration\Internal\" />
       <Folder Include="UserAuthentication\Domain\Repository\" />
       <Folder Include="UserAuthentication\InfraStructure\" />
     </ItemGroup>
