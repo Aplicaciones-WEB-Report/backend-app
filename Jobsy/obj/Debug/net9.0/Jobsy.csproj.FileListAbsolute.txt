@@ -1,134 +1,203 @@
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\appsettings.Development.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\appsettings.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.staticwebassets.endpoints.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.exe
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.deps.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.runtimeconfig.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.pdb
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Google.Protobuf.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\K4os.Compression.LZ4.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\K4os.Hash.xxHash.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.OpenApi.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\MySql.Data.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\MySql.EntityFrameworkCore.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\System.Security.Permissions.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\System.Windows.Extensions.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\ZstdSharp.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.csproj.AssemblyReference.cache
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\rpswa.dswa.cache.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.GeneratedMSBuildEditorConfig.editorconfig
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.AssemblyInfoInputs.cache
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.AssemblyInfo.cs
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.csproj.CoreCompileInputs.cache
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.MvcApplicationPartsAssemblyInfo.cs
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.MvcApplicationPartsAssemblyInfo.cache
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\rjimswa.dswa.cache.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\scopedcss\bundle\Jobsy.styles.css
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\staticwebassets.build.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\staticwebassets.build.json.cache
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\staticwebassets.development.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.csproj.Up2Date
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\refint\Jobsy.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.pdb
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.genruntimeconfig.cache
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\obj\Debug\net9.0\ref\Jobsy.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\MediatR.dll
-D:\Escritorio\practicaWEB-backend\Jobsy\Jobsy\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\appsettings.Development.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\appsettings.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.staticwebassets.endpoints.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.exe
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.deps.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.runtimeconfig.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Jobsy.pdb
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Google.Protobuf.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\K4os.Compression.LZ4.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\K4os.Hash.xxHash.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\MediatR.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Microsoft.OpenApi.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\MySql.Data.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\MySql.EntityFrameworkCore.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\System.Security.Permissions.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\System.Windows.Extensions.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\ZstdSharp.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.csproj.AssemblyReference.cache
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\rpswa.dswa.cache.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.GeneratedMSBuildEditorConfig.editorconfig
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.AssemblyInfoInputs.cache
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.AssemblyInfo.cs
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.csproj.CoreCompileInputs.cache
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.MvcApplicationPartsAssemblyInfo.cs
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.MvcApplicationPartsAssemblyInfo.cache
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\rjimswa.dswa.cache.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\scopedcss\bundle\Jobsy.styles.css
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\staticwebassets.build.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\staticwebassets.build.json.cache
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\staticwebassets.development.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.csproj.Up2Date
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\refint\Jobsy.dll
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.pdb
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\Jobsy.genruntimeconfig.cache
-D:\Escritorio\project-Aplicaciones Web\backend-project\Jobsy\Jobsy\obj\Debug\net9.0\ref\Jobsy.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/appsettings.Development.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/appsettings.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.staticwebassets.endpoints.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.exe
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.deps.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.runtimeconfig.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.pdb
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/BouncyCastle.Cryptography.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Google.Protobuf.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/K4os.Compression.LZ4.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/K4os.Compression.LZ4.Streams.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/K4os.Hash.xxHash.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.OpenApi.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/MySql.Data.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/MySql.EntityFrameworkCore.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/System.Security.Permissions.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/System.Windows.Extensions.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/ZstdSharp.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/comerr64.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/gssapi64.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/k5sprt64.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/krb5_64.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/krbcc64.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.csproj.AssemblyReference.cache
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/rpswa.dswa.cache.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.GeneratedMSBuildEditorConfig.editorconfig
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.AssemblyInfoInputs.cache
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.AssemblyInfo.cs
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.csproj.CoreCompileInputs.cache
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.MvcApplicationPartsAssemblyInfo.cs
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.MvcApplicationPartsAssemblyInfo.cache
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/rjimswa.dswa.cache.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/scopedcss/bundle/Jobsy.styles.css
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/staticwebassets.build.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/staticwebassets.build.json.cache
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/staticwebassets.development.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.csproj.Up2Date
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/refint/Jobsy.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.pdb
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.genruntimeconfig.cache
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/obj/Debug/net9.0/ref/Jobsy.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/MediatR.dll
+D:/Escritorio/practicaWEB-backend/Jobsy/Jobsy/bin/Debug/net9.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/appsettings.Development.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/appsettings.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.staticwebassets.endpoints.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.exe
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.deps.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.runtimeconfig.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Jobsy.pdb
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/BouncyCastle.Cryptography.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Google.Protobuf.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/K4os.Compression.LZ4.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/K4os.Compression.LZ4.Streams.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/K4os.Hash.xxHash.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/MediatR.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Microsoft.OpenApi.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/MySql.Data.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/MySql.EntityFrameworkCore.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/System.Security.Permissions.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/System.Windows.Extensions.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/ZstdSharp.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/comerr64.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/gssapi64.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/k5sprt64.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/krb5_64.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/krbcc64.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.csproj.AssemblyReference.cache
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/rpswa.dswa.cache.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.GeneratedMSBuildEditorConfig.editorconfig
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.AssemblyInfoInputs.cache
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.AssemblyInfo.cs
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.csproj.CoreCompileInputs.cache
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.MvcApplicationPartsAssemblyInfo.cs
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.MvcApplicationPartsAssemblyInfo.cache
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/rjimswa.dswa.cache.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/scopedcss/bundle/Jobsy.styles.css
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/staticwebassets.build.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/staticwebassets.build.json.cache
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/staticwebassets.development.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.csproj.Up2Date
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/refint/Jobsy.dll
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.pdb
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/Jobsy.genruntimeconfig.cache
+D:/Escritorio/project-Aplicaciones Web/backend-project/Jobsy/Jobsy/obj/Debug/net9.0/ref/Jobsy.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/appsettings.Development.json
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/appsettings.json
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Jobsy.staticwebassets.endpoints.json
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Jobsy
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Jobsy.deps.json
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Jobsy.runtimeconfig.json
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Jobsy.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Jobsy.pdb
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/BouncyCastle.Cryptography.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Google.Protobuf.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/K4os.Compression.LZ4.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/K4os.Compression.LZ4.Streams.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/K4os.Hash.xxHash.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/MediatR.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/MySql.Data.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/MySql.EntityFrameworkCore.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/ZstdSharp.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/comerr64.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/gssapi64.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/krb5_64.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/runtimes/win-x64/native/krbcc64.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.csproj.AssemblyReference.cache
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.AssemblyInfoInputs.cache
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.AssemblyInfo.cs
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.csproj.CoreCompileInputs.cache
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.MvcApplicationPartsAssemblyInfo.cs
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.MvcApplicationPartsAssemblyInfo.cache
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.sourcelink.json
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/scopedcss/bundle/Jobsy.styles.css
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/staticwebassets.build.json
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/staticwebassets.development.json
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/staticwebassets/msbuild.Jobsy.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/staticwebassets/msbuild.Jobsy.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/staticwebassets/msbuild.build.Jobsy.props
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Jobsy.props
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Jobsy.props
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.csproj.Up2Date
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/refint/Jobsy.dll
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.pdb
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/Jobsy.genruntimeconfig.cache
+/Users/charllotte2/RiderProjects/pp/Jobsy/obj/Debug/net9.0/ref/Jobsy.dll

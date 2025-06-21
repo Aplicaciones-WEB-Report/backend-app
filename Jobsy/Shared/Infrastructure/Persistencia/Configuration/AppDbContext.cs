@@ -11,7 +11,7 @@ public class AppDbContext : DbContext
     }
     public DbSet<User> Usuarios { get; set; }
     public DbSet<Profile> Perfiles { get; set; }
-    
+    public DbSet<Messages> Messages { get; set; }
     protected override void OnModelCreating(ModelBuilder builder)
     {
         // Relación uno a uno entre User y Profile

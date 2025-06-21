@@ -2523,19 +2523,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ronald\\.nuget\\packages\\": {}
+    "/Users/charllotte2/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\project-Aplicaciones Web\\backend-project\\Jobsy\\Jobsy\\Jobsy.csproj",
+      "projectUniqueName": "/Users/charllotte2/RiderProjects/pp/Jobsy/Jobsy.csproj",
       "projectName": "Jobsy",
-      "projectPath": "D:\\Escritorio\\project-Aplicaciones Web\\backend-project\\Jobsy\\Jobsy\\Jobsy.csproj",
-      "packagesPath": "C:\\Users\\Ronald\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\project-Aplicaciones Web\\backend-project\\Jobsy\\Jobsy\\obj\\",
+      "projectPath": "/Users/charllotte2/RiderProjects/pp/Jobsy/Jobsy.csproj",
+      "packagesPath": "/Users/charllotte2/.nuget/packages/",
+      "outputPath": "/Users/charllotte2/RiderProjects/pp/Jobsy/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ronald\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/charllotte2/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -2559,7 +2559,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -2605,7 +2605,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/charllotte2/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
