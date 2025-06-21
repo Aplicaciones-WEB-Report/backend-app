@@ -1,23 +1,31 @@
 using Jobsy.UserAuthentication.Domain.Model.Aggregates;
-using Jobsy.UserAuthentication.Domain.Model.Entities;
+using Jobsy.Postulant.CandidateAuthentication.Domain.Model.Aggregates;
 using Microsoft.EntityFrameworkCore;
 
 namespace Jobsy.Shared.Infrastructure.Persistencia.Configuration;
 
+/// <summary>
+/// Application's DB context.
+/// </summary>
 public class AppDbContext : DbContext
 {
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
     {
     }
+
+    // DbSets
     public DbSet<User> Usuarios { get; set; }
-    public DbSet<Profile> Perfiles { get; set; }
-    
+    public DbSet<CandidateProfile> CandidateProfiles { get; set; }
+
     protected override void OnModelCreating(ModelBuilder builder)
     {
-        // Relación uno a uno entre User y Profile
+        base.OnModelCreating(builder);
+
+        // Relación uno a uno entre User y CandidateProfile
         builder.Entity<User>()
-            .HasOne<Profile>()
-            .WithOne(p => p.user)
-            .HasForeignKey<Profile>(p => p.Id_Usuario);
+            .HasOne<CandidateProfile>()
+            .WithOne(cp => cp.user)
+            .HasForeignKey<CandidateProfile>(cp => cp.Id_Usuario)
+            .OnDelete(DeleteBehavior.Cascade); // Opcional: si quieres eliminar el perfil si se elimina el usuario
     }
 }

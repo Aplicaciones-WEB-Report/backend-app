@@ -24,16 +24,7 @@
       <Folder Include="Messaging\Domain\" />
       <Folder Include="Messaging\InfraStructure\" />
       <Folder Include="Messaging\Interfaces\" />
-      <Folder Include="Postulant\Application\" />
-      <Folder Include="Postulant\Domain\Exception\" />
-      <Folder Include="Postulant\Domain\Model\Aggregates\" />
-      <Folder Include="Postulant\Domain\Model\Commands\" />
-      <Folder Include="Postulant\Domain\Model\Entities\" />
-      <Folder Include="Postulant\Domain\Model\Queries\" />
-      <Folder Include="Postulant\Domain\Model\ValueObjects\" />
-      <Folder Include="Postulant\Domain\Repository\" />
-      <Folder Include="Postulant\InfraStructure\" />
-      <Folder Include="Postulant\Interfaces\" />
+      <Folder Include="Postulant\" />
       <Folder Include="Recruiter\Application\" />
       <Folder Include="Recruiter\Domain\" />
       <Folder Include="Recruiter\InfraStructure\" />
