@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.6"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.6" />
+        <PackageReference Include="MySql.EntityFrameworkCore" Version="9.0.3" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="iam\" />
+      <Folder Include="Messaging\Application\" />
+      <Folder Include="Messaging\Domain\" />
+      <Folder Include="Messaging\InfraStructure\" />
+      <Folder Include="Messaging\Interfaces\" />
+      <Folder Include="Postulant\Application\" />
+      <Folder Include="Postulant\Domain\Exception\" />
+      <Folder Include="Postulant\Domain\Model\Aggregates\" />
+      <Folder Include="Postulant\Domain\Model\Commands\" />
+      <Folder Include="Postulant\Domain\Model\Entities\" />
+      <Folder Include="Postulant\Domain\Model\Queries\" />
+      <Folder Include="Postulant\Domain\Model\ValueObjects\" />
+      <Folder Include="Postulant\Domain\Repository\" />
+      <Folder Include="Postulant\InfraStructure\" />
+      <Folder Include="Postulant\Interfaces\" />
+      <Folder Include="Recruiter\Application\" />
+      <Folder Include="Recruiter\Domain\" />
+      <Folder Include="Recruiter\InfraStructure\" />
+      <Folder Include="Recruiter\Interfaces\" />
+      <Folder Include="Shared\Domain\Model\" />
+      <Folder Include="Shared\Domain\Repository\" />
+      <Folder Include="UserAuthentication\Domain\Repository\" />
+      <Folder Include="UserAuthentication\InfraStructure\" />
+    </ItemGroup>
+
+</Project>
