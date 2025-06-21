@@ -1,24 +1,57 @@
+// --- USINGS NECESARIOS ---
 using Jobsy.Shared.Infrastructure.Persistencia.Configuration;
-using Jobsy.UserAuthentication.Application.CommandServices;
+using Jobsy.Shared.Domain.Repositories;
+using Jobsy.Shared.Infrastructure.Persistencia.Repositories;
+using Jobsy.Postulant.CandidateAuthentication.Domain.Repositories;
+using Jobsy.Postulant.CandidateAuthentication.Domain.Services;
+using Jobsy.Postulant.CandidateAuthentication.Infrastructure.Repositories;
+using Jobsy.Postulant.CandidateAuthentication.Application.Internal.CommandServices;
+using Jobsy.Postulant.CandidateAuthentication.Application.Internal.QueryServices;
+using Jobsy.Recruiter.Domain.Repository;
+using Jobsy.Recruiter.Infrastructure.Repositories;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
+// NO se necesita el using de Npgsql.EntityFrameworkCore.PostgreSQL
 
+// --- INICIO DE LA CONFIGURACIÓN ---
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddControllers();
+
+// --- SERVICIOS BASE ---
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+    });
+    
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-//---
-builder.Services.AddMediatR(typeof(RegisterUserService).Assembly);
-builder.Services.AddScoped<RegisterUserService>();
-//----
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+// --- CONFIGURACIÓN DE MEDIATR (CQRS) ---
+builder.Services.AddMediatR(typeof(Program).Assembly);
 
+// --- CONFIGURACIÓN DE LA BASE DE DATOS (MYSQL) ---
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
-    options.UseMySQL(connectionString); // MYSQL
+    // CAMBIO 1: Usamos UseMySQL en lugar de UseNpgsql
+    options.UseMySQL(connectionString);
 });
 
+// --- INYECCIÓN DE DEPENDENCIAS (REPOSITORIOS Y SERVICIOS) ---
+
+// Shared
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+// Postulant Context
+builder.Services.AddScoped<ICandidateProfileRepository, CandidateProfileRepository>();
+builder.Services.AddScoped<ICandidateProfileCommandService, CandidateProfileCommandService>();
+builder.Services.AddScoped<ICandidateProfileQueryService, CandidateProfileQueryService>();
+
+// Recruiter Context
+builder.Services.AddScoped<IEmployerProfileRepository, EmployerProfileRepository>();
+
+// --- CONSTRUCCIÓN DE LA APLICACIÓN ---
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
@@ -28,38 +61,13 @@ using (var scope = app.Services.CreateScope())
     context.Database.EnsureCreated();
 }
 
-
-// Configure the HTTP request pipeline.
-
-app.UseSwagger();
-app.UseSwaggerUI();
-app.MapControllers();
-
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
 app.UseHttpsRedirection();
-
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
-    {
-        var forecast = Enumerable.Range(1, 5).Select(index =>
-                new WeatherForecast
-                (
-                    DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                    Random.Shared.Next(-20, 55),
-                    summaries[Random.Shared.Next(summaries.Length)]
-                ))
-            .ToArray();
-        return forecast;
-    })
-    .WithName("GetWeatherForecast");
+app.MapControllers();
 
 app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}
