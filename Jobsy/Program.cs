@@ -1,3 +1,6 @@
+using Jobsy.JobsyAi.Application.Handlers;
+using Jobsy.JobsyAi.Domain.Services;
+using Jobsy.JobsyAi.Infrastructure.ExternalServices;
 using Jobsy.Shared.Infrastructure.Persistencia.Configuration;
 using Jobsy.UserAuthentication.Application.CommandServices;
 using MediatR;
@@ -7,7 +10,13 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+//------------------
+//-----IA----
+builder.Services.AddHttpClient<IChatService, OpenRouterService>();
+builder.Services.AddMediatR(typeof(SendMessageHandler).Assembly);
+//---document--
+builder.Services.AddScoped<IDocumentAnalyzer, DocumentProcessingService>();
+//------------------
 //---
 builder.Services.AddMediatR(typeof(RegisterUserService).Assembly);
 builder.Services.AddScoped<RegisterUserService>();
