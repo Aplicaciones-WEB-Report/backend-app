@@ -206,3 +206,13 @@ D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\Ugl
 D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\UglyToad.PdfPig.Fonts.dll
 D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\UglyToad.PdfPig.Tokenization.dll
 D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\UglyToad.PdfPig.Tokens.dll
+D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\JWT.dll
+D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Escritorio\project-Aplicaciones Web\IA\backend-app\Jobsy\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
