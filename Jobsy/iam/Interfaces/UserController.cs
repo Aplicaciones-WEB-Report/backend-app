@@ -40,10 +40,27 @@ public class UserController : ControllerBase
     //prueba del toquen Bearer tu_token_aqui
     [Authorize]
     [HttpGet("me")]
-    public IActionResult GetProfile()
+    public async Task<IActionResult> GetProfile()
     {
         var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-        return Ok($"Tu ID es {userId}");
+
+        if (string.IsNullOrEmpty(userId))
+            return Unauthorized(new { message = "Token inválido." });
+
+        var user = await _mediator.Send(new GetUserByIdQuery(int.Parse(userId)));
+
+        if (user == null)
+            return NotFound(new { message = "Usuario no encontrado." });
+
+        return Ok(new
+        {
+            user.id,
+            user.name,
+            user.email,
+            user.role,
+            user.description,
+            user.created_at
+        });
     }
     
     //ingresar
@@ -60,10 +77,6 @@ public class UserController : ControllerBase
             return Unauthorized(new { message = ex.Message });
         }
     }
-
-    
-    
-    
     
     [HttpGet("{id}")]
     public async Task<IActionResult> GetUserById(int id)
@@ -79,7 +92,4 @@ public class UserController : ControllerBase
         }
     }
     
-    
-    
-
 }

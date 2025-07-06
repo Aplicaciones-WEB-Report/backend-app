@@ -77,7 +77,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: MyAllowSpecificOrigins,
         policy =>
         {
-            policy.WithOrigins("http://localhost:5176") // Vue dev server
+            policy.WithOrigins("http://localhost:5174") // Vue dev server
                 .AllowAnyHeader()
                 .AllowAnyMethod();
         });

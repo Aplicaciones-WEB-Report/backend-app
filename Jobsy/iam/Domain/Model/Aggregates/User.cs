@@ -26,5 +26,4 @@ public class User
     
     public DateTime created_at { get; set; } = DateTime.UtcNow;
     
-    
 }
